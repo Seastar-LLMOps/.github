@@ -1,4 +1,4 @@
-## Seastar-LLMOps 🚀
+## Seastar-LLMOps 🚀🚀🚀
 
 **Seastar-LLMOps** is a production-level platform solution for LLMOps, providing management, context enrichment, dataset handling, fine-tuning, and vector search capabilities for LLM applications. 
 It allows you to quickly and easily create useful GPT applications. 
