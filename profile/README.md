@@ -1,13 +1,13 @@
-## Seastar-LLMOps 🚀🚀🚀
+## Starcloud-LLMOps 🚀🚀🚀
 
-**Seastar-LLMOps** is a production-level platform solution for LLMOps, providing management, context enrichment, dataset handling, fine-tuning, and vector search capabilities for LLM applications. 
+**Starcloud-LLMOps** is a production-level platform solution for LLMOps, providing management, context enrichment, dataset handling, fine-tuning, and vector search capabilities for LLM applications. 
 It allows you to quickly and easily create useful GPT applications. 
 Seastar-LLMOps offers a comprehensive set of tools and supports popular LLM models like GPT 3 and GPT 3.5 Turbo. It also allows integration with platforms such as Slack, Discord, and Chrome. 
 Seastar-LLMOps is designed as a user-friendly production-level solution and provides a visual prompt editor with support for multi-node workflow orchestration, as well as a debugging interface. You can also analyze and annotate datasets during runtime.
 
 
 ## About us
-The Seastar-LLMOps project was created by former team members from Alibaba, specifically from business development teams such as AliExpress, Alibaba Cloud, and CaiNiao. We have years of experience in cross-border business research and development.
+The **Starcloud-LLMOps** project was created by former team members from Alibaba, specifically from business development teams such as AliExpress, Alibaba Cloud, and CaiNiao. We have years of experience in cross-border business research and development.
 Drawing upon our extensive experience in developing commercial projects, we aim to empower businesses and individuals to quickly build engaging applications and robust commercial projects using natural language.
 
 **Contact Us**
